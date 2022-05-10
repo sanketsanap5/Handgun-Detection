@@ -25,11 +25,19 @@ We will be making use of the Handgun Detection Dataset from Kaggle and Universit
 
 A Convolutional Neural Network (CNN) is a deep learning technique which can take in an input image, assign importance to various aspects in the image through learnable weights and biases. Finally, the trained model is able to differentiate one image from the other. One of the major advantages of using CNN over other deep learning techniques is that the pre-processing required is much lower.
 
+## Sample Training Images
+
 ![image](https://user-images.githubusercontent.com/71927468/167680516-d78c78d5-343c-4fd1-8b4e-a18a62e2f0a8.png)
+
+## Gray Scale Image
 
 ![image](https://user-images.githubusercontent.com/71927468/167680584-c98c0751-459e-45c0-9b92-467a224c5835.png)
 
+## Learning Curve
+
 ![image](https://user-images.githubusercontent.com/71927468/167680266-15a871e7-13bc-431e-a5d5-7f68140f923b.png)
+
+## Confusion Metrix
 
 ![image](https://user-images.githubusercontent.com/71927468/167680446-09d8051d-7db6-4dd8-add5-bfd72b1eaed3.png)
 
